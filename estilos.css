@@ -1,0 +1,24 @@
+> <!DOCTYPE html> 
+> meta  name content=prefeco,paginas wep,3c
+<html lang="es"> 
+
+<head> 
+<link rel="stylesheet" href="estilos.css"> 
+
+<meta charset="UTF-8"> 
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<1-- Configura la escala y el ancho de la vista para que sea responsive en dispositivos móviles --> 
+<title>Mi Primera Página Web</title> 
+
+</head> 
+<body> 
+
+<h1>Bienvenido a Mi Página Web</h1> 
+
+<p>Este es un párrafo de prueba.</p> 
+
+<a href="https://www.google.com">Ir a Google</a> 
+<head> 
+
+</html> 
